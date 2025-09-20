@@ -1,0 +1,484 @@
+2025-09-07 18:52:32,691 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 18:53:03,001 [Thread-0] DEBUG httpserver.RequestHandler- GET / HTTP/1.1
+2025-09-07 18:53:03,001 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 18:53:03,001 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 18:53:03,001 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 18:53:03,001 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 18:53:03,001 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 18:53:03,002 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 18:53:03,003 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 18:53:03,003 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 18:53:03,003 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 18:53:03,003 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 18:53:03,003 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@6a7b1dac
+2025-09-07 18:53:03,028 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@6a7b1dac
+2025-09-07 18:53:25,905 [Thread-1] DEBUG httpserver.RequestHandler- GET /resources/ HTTP/1.1
+2025-09-07 18:53:25,905 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 18:53:25,905 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 18:53:25,905 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 18:53:25,906 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 18:53:25,907 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@dcac827
+2025-09-07 18:53:25,907 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@dcac827
+2025-09-07 18:54:58,442 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 18:55:13,775 [Thread-0] DEBUG httpserver.RequestHandler- GET /resources/ HTTP/1.1
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 18:55:13,776 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 18:55:13,777 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 18:55:13,777 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 18:55:13,777 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 18:55:13,777 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 18:55:13,778 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@583f5f4c
+2025-09-07 18:55:13,778 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@583f5f4c
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- GET / HTTP/1.1
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 18:55:41,864 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 18:55:41,865 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@e5c89a1
+2025-09-07 18:55:41,865 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@e5c89a1
+2025-09-07 18:56:21,301 [Thread-2] DEBUG httpserver.RequestHandler- GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1
+2025-09-07 18:56:21,302 [Thread-2] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 18:56:21,302 [Thread-2] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 18:56:21,302 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: same-origin
+2025-09-07 18:56:21,302 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: no-cors
+2025-09-07 18:56:21,302 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: empty
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- 
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@8bfd839
+2025-09-07 18:56:21,303 [Thread-2] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@8bfd839
+2025-09-07 18:56:48,824 [Thread-3] DEBUG httpserver.RequestHandler- GET / HTTP/1.1
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 18:56:48,826 [Thread-3] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 18:56:48,827 [Thread-3] DEBUG httpserver.RequestHandler- 
+2025-09-07 18:56:48,828 [Thread-3] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 18:56:48,828 [Thread-3] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@7651af9d
+2025-09-07 18:56:48,828 [Thread-3] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@7651af9d
+2025-09-07 19:02:56,108 [Thread-4] DEBUG httpserver.RequestHandler- GET /home HTTP/1.1
+2025-09-07 19:02:56,108 [Thread-4] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@19f8d9ba
+2025-09-07 19:02:56,109 [Thread-4] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@19f8d9ba
+2025-09-07 19:13:44,813 [Thread-5] DEBUG httpserver.RequestHandler- GET /shutdown HTTP/1.1
+2025-09-07 19:13:44,814 [Thread-5] INFO  httpserver.RequestHandler- server stopped by client
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:13:44,814 [Thread-5] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:13:44,815 [Thread-5] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:13:44,815 [Thread-5] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:13:44,815 [Thread-5] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:13:44,815 [Thread-5] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@32ae46c9
+2025-09-07 19:13:44,815 [Thread-5] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@32ae46c9
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- GET /shutdown HTTP/1.1
+2025-09-07 19:14:15,250 [Thread-6] INFO  httpserver.RequestHandler- server stopped by client
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:14:15,250 [Thread-6] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4efb6da
+2025-09-07 19:14:15,252 [Thread-6] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4efb6da
+2025-09-07 19:14:37,993 [Thread-7] DEBUG httpserver.RequestHandler- GET /home HTTP/1.1
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@74946f74
+2025-09-07 19:14:37,994 [Thread-7] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@74946f74
+2025-09-07 19:35:20,138 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 19:35:27,431 [Thread-0] DEBUG httpserver.RequestHandler- GET / HTTP/1.1
+2025-09-07 19:35:27,431 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:35:27,432 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:35:27,432 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:35:27,432 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:35:27,432 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:35:27,432 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:35:27,432 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:35:27,433 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:35:27,434 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1770851e
+2025-09-07 19:35:27,435 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1770851e
+2025-09-07 19:35:34,118 [Thread-1] DEBUG httpserver.RequestHandler- GET /shutdown HTTP/1.1
+2025-09-07 19:35:34,119 [Thread-1] INFO  httpserver.RequestHandler- server stopped by client
+2025-09-07 19:35:34,119 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:35:34,119 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:35:34,119 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:35:34,120 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@5a683430
+2025-09-07 19:35:34,121 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@5a683430
+2025-09-07 19:36:22,821 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- GET /shutdown HTTP/1.1
+2025-09-07 19:36:28,414 [Thread-0] INFO  httpserver.RequestHandler- server stopped by client
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:36:28,414 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:36:28,415 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:36:28,416 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:36:28,416 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:36:28,416 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:36:28,416 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1592db36
+2025-09-07 19:36:28,417 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1592db36
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- GET /shutdown HTTP/1.1
+2025-09-07 19:37:04,916 [Thread-1] INFO  httpserver.RequestHandler- server stopped by client
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:37:04,916 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4d6f135b
+2025-09-07 19:37:04,917 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4d6f135b
+2025-09-07 19:37:26,998 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 19:37:34,671 [Thread-0] DEBUG httpserver.RequestHandler- GET /home HTTP/1.1
+2025-09-07 19:37:34,671 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:37:34,672 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@160c05a2
+2025-09-07 19:37:34,673 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@160c05a2
+2025-09-07 19:37:44,914 [Thread-1] DEBUG httpserver.RequestHandler- GET /shutdown HTTP/1.1
+2025-09-07 19:37:44,914 [Thread-1] INFO  httpserver.RequestHandler- server stopped by client
+2025-09-07 19:37:44,914 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 19:37:44,915 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 19:37:44,915 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 19:37:44,915 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 19:37:44,915 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 19:37:44,916 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@588a7a44
+2025-09-07 19:37:44,917 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@588a7a44
+2025-09-07 20:43:56,978 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 20:44:12,276 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:44:12,277 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:44:12,278 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:44:12,279 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@37d5c07f
+2025-09-07 20:44:12,280 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@37d5c07f
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:44:26,309 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:44:26,310 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@6a96b7ba
+2025-09-07 20:44:26,323 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@6a96b7ba
+2025-09-07 20:46:07,756 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 20:46:09,517 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 20:46:18,678 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:46:18,679 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:46:18,679 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:46:18,679 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:46:18,679 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:46:18,679 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:46:18,680 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:46:18,681 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:46:18,681 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:46:18,681 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1b979b61
+2025-09-07 20:46:18,683 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@1b979b61
+2025-09-07 20:46:24,053 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:46:24,053 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:46:24,053 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:46:24,053 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:46:24,053 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:46:24,054 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:46:24,054 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:46:24,054 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:46:24,054 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:46:24,054 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@a774cd9
+2025-09-07 20:46:24,055 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@a774cd9
+2025-09-07 20:47:49,028 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 20:47:52,972 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:47:52,973 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:47:52,973 [Thread-0] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 20:47:52,973 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:47:52,973 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:47:52,973 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:47:52,973 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:47:52,974 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:47:52,974 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:47:52,974 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:47:52,974 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:47:52,974 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:47:52,975 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:47:52,975 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:47:52,975 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:47:52,975 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:47:52,975 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:47:52,975 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4b4a576b
+2025-09-07 20:47:52,976 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4b4a576b
+2025-09-07 20:48:25,085 [Thread-2] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:48:25,085 [Thread-2] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:48:25,085 [Thread-2] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 20:48:25,085 [Thread-2] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:48:25,086 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@3d489239
+2025-09-07 20:48:25,087 [Thread-2] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@3d489239
+2025-09-07 20:48:32,689 [main] INFO  httpserver.HttpServer- start HttpServer
+2025-09-07 20:48:35,273 [Thread-0] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:48:35,275 [Thread-0] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:48:35,275 [Thread-0] DEBUG httpserver.RequestHandler- Cache-Control: max-age=0
+2025-09-07 20:48:35,275 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:48:35,275 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:48:35,275 [Thread-0] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:48:35,275 [Thread-0] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:48:35,276 [Thread-0] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:48:35,277 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@ec0a400
+2025-09-07 20:48:35,277 [Thread-0] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@ec0a400
+2025-09-07 20:48:57,816 [Thread-1] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:48:57,816 [Thread-1] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:48:57,816 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:48:57,816 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:48:57,817 [Thread-1] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:48:57,817 [Thread-1] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:48:57,817 [Thread-1] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:48:57,817 [Thread-1] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:48:57,817 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4d6f135b
+2025-09-07 20:48:57,818 [Thread-1] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@4d6f135b
+2025-09-07 20:49:10,154 [Thread-2] DEBUG httpserver.RequestHandler- Host: localhost:8080
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- Connection: keep-alive
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- sec-ch-ua: "Not)A;Brand";v="8", "Chromium";v="138", "YaBrowser";v="25.8", "Yowser";v="2.5"
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- sec-ch-ua-mobile: ?0
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- sec-ch-ua-platform: "Windows"
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- Upgrade-Insecure-Requests: 1
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36
+2025-09-07 20:49:10,155 [Thread-2] DEBUG httpserver.RequestHandler- Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Site: none
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Mode: navigate
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-User: ?1
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- Sec-Fetch-Dest: document
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- Accept-Encoding: gzip, deflate, br, zstd
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- Accept-Language: ru,en;q=0.9
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- 
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- end of request header
+2025-09-07 20:49:10,156 [Thread-2] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@752cafb9
+2025-09-07 20:49:10,157 [Thread-2] DEBUG httpserver.RequestHandler- outputStreamjava.net.Socket$SocketOutputStream@752cafb9
